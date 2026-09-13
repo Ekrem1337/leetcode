@@ -1,0 +1,15 @@
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\bin\Debug\net8.0\Best Time to Buy and Sell Stock.exe
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\bin\Debug\net8.0\Best Time to Buy and Sell Stock.deps.json
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\bin\Debug\net8.0\Best Time to Buy and Sell Stock.runtimeconfig.json
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\bin\Debug\net8.0\Best Time to Buy and Sell Stock.dll
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\bin\Debug\net8.0\Best Time to Buy and Sell Stock.pdb
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\obj\Debug\net8.0\Best Time to Buy and Sell Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\obj\Debug\net8.0\Best Time to Buy and Sell Stock.AssemblyInfoInputs.cache
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\obj\Debug\net8.0\Best Time to Buy and Sell Stock.AssemblyInfo.cs
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\obj\Debug\net8.0\Best Time to Buy and Sell Stock.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\obj\Debug\net8.0\Best Time to Buy and Sell Stock.sourcelink.json
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\obj\Debug\net8.0\Best Time to Buy and Sell Stock.dll
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\obj\Debug\net8.0\refint\Best Time to Buy and Sell Stock.dll
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\obj\Debug\net8.0\Best Time to Buy and Sell Stock.pdb
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\obj\Debug\net8.0\Best Time to Buy and Sell Stock.genruntimeconfig.cache
+C:\Users\Ekrem Beytula\Documents\Github\1337Code\C#\Best Time to Buy and Sell Stock\obj\Debug\net8.0\ref\Best Time to Buy and Sell Stock.dll

@@ -1,0 +1,14 @@
+C:\Users\Ekrem Beytula\Documents\Github\Leetcode\C#\Merge Sort Array\Majority element\bin\Debug\net8.0\Majority element.exe
+C:\Users\Ekrem Beytula\Documents\Github\Leetcode\C#\Merge Sort Array\Majority element\bin\Debug\net8.0\Majority element.deps.json
+C:\Users\Ekrem Beytula\Documents\Github\Leetcode\C#\Merge Sort Array\Majority element\bin\Debug\net8.0\Majority element.runtimeconfig.json
+C:\Users\Ekrem Beytula\Documents\Github\Leetcode\C#\Merge Sort Array\Majority element\bin\Debug\net8.0\Majority element.dll
+C:\Users\Ekrem Beytula\Documents\Github\Leetcode\C#\Merge Sort Array\Majority element\bin\Debug\net8.0\Majority element.pdb
+C:\Users\Ekrem Beytula\Documents\Github\Leetcode\C#\Merge Sort Array\Majority element\obj\Debug\net8.0\Majority element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekrem Beytula\Documents\Github\Leetcode\C#\Merge Sort Array\Majority element\obj\Debug\net8.0\Majority element.AssemblyInfoInputs.cache
+C:\Users\Ekrem Beytula\Documents\Github\Leetcode\C#\Merge Sort Array\Majority element\obj\Debug\net8.0\Majority element.AssemblyInfo.cs
+C:\Users\Ekrem Beytula\Documents\Github\Leetcode\C#\Merge Sort Array\Majority element\obj\Debug\net8.0\Majority element.csproj.CoreCompileInputs.cache
+C:\Users\Ekrem Beytula\Documents\Github\Leetcode\C#\Merge Sort Array\Majority element\obj\Debug\net8.0\Majority element.dll
+C:\Users\Ekrem Beytula\Documents\Github\Leetcode\C#\Merge Sort Array\Majority element\obj\Debug\net8.0\refint\Majority element.dll
+C:\Users\Ekrem Beytula\Documents\Github\Leetcode\C#\Merge Sort Array\Majority element\obj\Debug\net8.0\Majority element.pdb
+C:\Users\Ekrem Beytula\Documents\Github\Leetcode\C#\Merge Sort Array\Majority element\obj\Debug\net8.0\Majority element.genruntimeconfig.cache
+C:\Users\Ekrem Beytula\Documents\Github\Leetcode\C#\Merge Sort Array\Majority element\obj\Debug\net8.0\ref\Majority element.dll
